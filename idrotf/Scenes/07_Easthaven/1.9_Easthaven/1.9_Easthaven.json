@@ -1,0 +1,64 @@
+{
+   "name": "Easthaven",
+   "backgroundColor": "#babab8",
+   "code": "idrotf",
+   "entity": "Scene",
+   "id": "scenes/idrotf-scene-1.9",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Easthaven"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 100,
+      "type": 1,
+      "value": 64
+   },
+   "img": {
+      "height": 2139,
+      "shift": {
+         "x": -24,
+         "y": 1
+      },
+      "width": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.9-03",
+         "positions": [
+            {
+               "x": 1888,
+               "y": 1632
+            }
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.9-02",
+         "positions": [
+            {
+               "x": 3232,
+               "y": 928
+            }
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.9-01",
+         "positions": [
+            {
+               "x": 1766.5882352941178,
+               "y": 1457.6470588235295
+            }
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

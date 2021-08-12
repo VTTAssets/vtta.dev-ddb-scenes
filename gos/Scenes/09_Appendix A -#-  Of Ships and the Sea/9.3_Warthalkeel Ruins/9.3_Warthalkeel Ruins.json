@@ -1,0 +1,71 @@
+{
+   "name": "Warthalkeel Ruins",
+   "backgroundColor": "#fbfcfc",
+   "code": "gos",
+   "entity": "Scene",
+   "id": "scenes/gos-scene-9.3",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Appendix A: Of Ships and the Sea"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 10,
+      "type": 1
+   },
+   "img": {
+      "height": 5700,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 4200
+   },
+   "journals": [
+      {
+         "id": "journals/gos-scene-9.3-W07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.3-W06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.3-W05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.3-W04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.3-W03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.3-W02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.3-W01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

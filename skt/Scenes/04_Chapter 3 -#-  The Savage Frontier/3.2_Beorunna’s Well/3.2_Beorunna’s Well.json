@@ -1,0 +1,37 @@
+{
+   "name": "Beorunna’s Well",
+   "backgroundColor": "#77685b",
+   "code": "skt",
+   "entity": "Scene",
+   "id": "scenes/skt-scene-3.2",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 3: The Savage Frontier"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 50,
+      "type": 1,
+      "value": 101
+   },
+   "img": {
+      "height": 2206,
+      "shift": {
+         "x": -76,
+         "y": -90
+      },
+      "width": 3189
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

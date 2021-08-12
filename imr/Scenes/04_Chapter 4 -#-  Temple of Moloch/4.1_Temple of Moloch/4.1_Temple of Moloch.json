@@ -1,0 +1,34 @@
+{
+   "name": "Temple of Moloch",
+   "code": "imr",
+   "entity": "Scene",
+   "id": "scenes/imr-scene-4.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 4: Temple of Moloch"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 6600,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 5100
+   },
+   "journals": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

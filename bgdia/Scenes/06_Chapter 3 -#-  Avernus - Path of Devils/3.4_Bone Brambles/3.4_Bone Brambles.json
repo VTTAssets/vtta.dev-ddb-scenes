@@ -1,0 +1,52 @@
+{
+   "name": "Bone Brambles",
+   "backgroundColor": "#fefefe",
+   "code": "bgdia",
+   "entity": "Scene",
+   "id": "scenes/bgdia-scene-3.4",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 3: Avernus - Path of Devils"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 140
+   },
+   "img": {
+      "height": 3996,
+      "shift": {
+         "x": -136,
+         "y": -4
+      },
+      "width": 6097
+   },
+   "journals": [
+      {
+         "id": "journals/bgdia-scene-3.4-B03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/bgdia-scene-3.4-B02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/bgdia-scene-3.4-B01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

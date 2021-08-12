@@ -1,0 +1,91 @@
+{
+   "name": "Dungeon of Deception",
+   "backgroundColor": "#5a554a",
+   "code": "toa",
+   "entity": "Scene",
+   "id": "scenes/toa-scene-5.2",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: Tomb of the Nine Gods"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1
+   },
+   "img": {
+      "height": 1900,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2750
+   },
+   "journals": [
+      {
+         "id": "journals/toa-scene-5.2-28",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-27",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-26",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-25",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-24",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-23",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-22",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-21",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-20",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-19",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-18",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

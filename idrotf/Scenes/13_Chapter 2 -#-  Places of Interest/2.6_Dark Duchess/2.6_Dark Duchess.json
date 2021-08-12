@@ -1,0 +1,96 @@
+{
+   "name": "Dark Duchess",
+   "backgroundColor": "#8a9ca8",
+   "code": "idrotf",
+   "entity": "Scene",
+   "id": "scenes/idrotf-scene-2.6",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 2: Places of Interest"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1
+   },
+   "img": {
+      "height": 2765,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 4000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-2.6-D12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.6-D11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.6-D10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.6-D09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.6-D08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.6-D07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.6-D06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.6-D05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.6-D04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.6-D03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.6-D02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.6-D01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

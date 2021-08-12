@@ -1,0 +1,94 @@
+{
+   "name": "The Sword Coast",
+   "code": "doip",
+   "entity": "Scene",
+   "id": "scenes/doip-scene-0.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "00 Running the Adventure"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 2933,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2105
+   },
+   "journals": [
+      {
+         "id": "journals/doip-scene-0.1-12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/doip-scene-0.1-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/doip-scene-0.1-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/doip-scene-0.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/doip-scene-0.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/doip-scene-0.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/doip-scene-0.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/doip-scene-0.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/doip-scene-0.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/doip-scene-0.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/doip-scene-0.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/doip-scene-0.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

@@ -1,0 +1,94 @@
+{
+   "name": "Menzoberranzan",
+   "code": "oota",
+   "entity": "Scene",
+   "id": "scenes/oota-scene-15.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "15 Chapter 15: The City of Spiders"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 1839,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2550
+   },
+   "journals": [
+      {
+         "id": "journals/oota-scene-15.1-12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-15.1-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-15.1-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-15.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-15.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-15.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-15.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-15.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-15.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-15.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-15.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-15.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

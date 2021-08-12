@@ -1,0 +1,34 @@
+{
+   "name": "Ritual Site",
+   "code": "ai",
+   "entity": "Scene",
+   "id": "scenes/ai-scene-6.2",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "10 Episode 6: Showdown with the Six"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 1725,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 1350
+   },
+   "journals": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

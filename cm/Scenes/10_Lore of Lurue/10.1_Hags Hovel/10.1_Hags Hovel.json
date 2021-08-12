@@ -1,0 +1,49 @@
+{
+   "name": "Hags Hovel",
+   "code": "cm",
+   "entity": "Scene",
+   "id": "scenes/cm-scene-10.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "10 Lore of Lurue"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 2133,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-10.1-H03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-10.1-H02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-10.1-H01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

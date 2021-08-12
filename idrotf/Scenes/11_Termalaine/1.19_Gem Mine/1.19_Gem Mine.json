@@ -1,0 +1,101 @@
+{
+   "name": "Gem Mine",
+   "backgroundColor": "#8498a7",
+   "code": "idrotf",
+   "entity": "Scene",
+   "id": "scenes/idrotf-scene-1.19",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "11 Termalaine"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1
+   },
+   "img": {
+      "height": 2765,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 4000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.19-M13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

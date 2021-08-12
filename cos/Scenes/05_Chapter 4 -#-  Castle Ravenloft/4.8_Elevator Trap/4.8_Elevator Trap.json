@@ -1,0 +1,59 @@
+{
+   "name": "Elevator Trap",
+   "code": "cos",
+   "entity": "Scene",
+   "id": "scenes/cos-scene-4.8",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: Castle Ravenloft"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 3300,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 1200
+   },
+   "journals": [
+      {
+         "id": "journals/cos-scene-4.8-K61",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.8-K47",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.8-K31b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.8-K31a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.8-K31",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

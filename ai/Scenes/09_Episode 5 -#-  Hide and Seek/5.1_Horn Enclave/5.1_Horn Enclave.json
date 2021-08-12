@@ -1,0 +1,34 @@
+{
+   "name": "Horn Enclave",
+   "code": "ai",
+   "entity": "Scene",
+   "id": "scenes/ai-scene-5.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Episode 5: Hide and Seek"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 1553,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 1215
+   },
+   "journals": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

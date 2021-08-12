@@ -1,0 +1,97 @@
+{
+   "name": "Court of the Count",
+   "backgroundColor": "#acadb1",
+   "code": "cos",
+   "entity": "Scene",
+   "id": "scenes/cos-scene-4.3",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: Castle Ravenloft"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 75
+   },
+   "img": {
+      "height": 1489,
+      "shift": {
+         "x": -57,
+         "y": -52
+      },
+      "width": 2227
+   },
+   "journals": [
+      {
+         "id": "journals/cos-scene-4.3-K34",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.3-K33",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.3-K32",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.3-K31b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.3-K31a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.3-K31",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.3-K30",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.3-K29",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.3-K28",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.3-K27",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.3-K26",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.3-K25",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

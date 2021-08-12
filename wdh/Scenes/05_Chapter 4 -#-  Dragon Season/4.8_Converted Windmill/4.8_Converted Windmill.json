@@ -1,0 +1,52 @@
+{
+   "name": "Converted Windmill",
+   "backgroundColor": "#fbfbfb",
+   "code": "wdh",
+   "entity": "Scene",
+   "id": "scenes/wdh-scene-4.8",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: Dragon Season"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 61
+   },
+   "img": {
+      "height": 1437,
+      "shift": {
+         "x": -25,
+         "y": -52
+      },
+      "width": 2049
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-4.8-W03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.8-W02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.8-W01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

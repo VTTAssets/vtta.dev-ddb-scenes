@@ -1,0 +1,64 @@
+{
+   "name": "Silent Sound Lighthouse",
+   "code": "ai",
+   "entity": "Scene",
+   "id": "scenes/ai-scene-3.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Episode 3: Darkness at the Lighthouse"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 1800,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2700
+   },
+   "journals": [
+      {
+         "id": "journals/ai-scene-3.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-3.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-3.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-3.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-3.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-3.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

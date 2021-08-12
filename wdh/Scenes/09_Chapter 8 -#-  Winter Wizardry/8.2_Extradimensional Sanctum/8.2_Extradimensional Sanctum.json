@@ -1,0 +1,102 @@
+{
+   "name": "Extradimensional Sanctum",
+   "backgroundColor": "#fcfcfc",
+   "code": "wdh",
+   "entity": "Scene",
+   "id": "scenes/wdh-scene-8.2",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Chapter 8: Winter Wizardry"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 60
+   },
+   "img": {
+      "height": 1425,
+      "shift": {
+         "x": -39,
+         "y": -16
+      },
+      "width": 2106
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-8.2-E13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

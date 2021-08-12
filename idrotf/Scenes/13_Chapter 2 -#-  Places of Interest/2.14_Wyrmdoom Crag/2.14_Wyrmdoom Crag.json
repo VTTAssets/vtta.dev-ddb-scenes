@@ -1,0 +1,71 @@
+{
+   "name": "Wyrmdoom Crag",
+   "backgroundColor": "#a2afba",
+   "code": "idrotf",
+   "entity": "Scene",
+   "id": "scenes/idrotf-scene-2.14",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 2: Places of Interest"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 10,
+      "type": 1
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2210
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-2.14-W07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.14-W06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.14-W05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.14-W04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.14-W03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.14-W02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.14-W01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

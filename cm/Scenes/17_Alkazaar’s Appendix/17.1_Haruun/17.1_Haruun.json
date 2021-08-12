@@ -1,0 +1,34 @@
+{
+   "name": "Haruun",
+   "code": "cm",
+   "entity": "Scene",
+   "id": "scenes/cm-scene-17.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "17 Alkazaar’s Appendix"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2206
+   },
+   "journals": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

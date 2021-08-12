@@ -1,0 +1,52 @@
+{
+   "name": "Landgrave’s Folly",
+   "backgroundColor": "#ffffff",
+   "code": "gos",
+   "entity": "Scene",
+   "id": "scenes/gos-scene-8.4",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Chapter 8: The Styes"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 59
+   },
+   "img": {
+      "height": 1506,
+      "shift": {
+         "x": -43,
+         "y": -43
+      },
+      "width": 2133
+   },
+   "journals": [
+      {
+         "id": "journals/gos-scene-8.4-L03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.4-L02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.4-L01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

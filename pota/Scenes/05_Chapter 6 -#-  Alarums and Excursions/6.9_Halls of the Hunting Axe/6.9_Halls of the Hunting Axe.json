@@ -1,0 +1,92 @@
+{
+   "name": "Halls of the Hunting Axe",
+   "backgroundColor": "#e1d9ba",
+   "code": "pota",
+   "entity": "Scene",
+   "id": "scenes/pota-scene-6.9",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 6: Alarums and Excursions"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 20,
+      "type": 1,
+      "value": 67
+   },
+   "img": {
+      "height": 2025,
+      "shift": {
+         "x": -64,
+         "y": -46
+      },
+      "width": 2900
+   },
+   "journals": [
+      {
+         "id": "journals/pota-scene-6.9-X11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-6.9-X10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-6.9-X09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-6.9-X08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-6.9-X07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-6.9-X06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-6.9-X05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-6.9-X04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-6.9-X03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-6.9-X02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-6.9-X01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

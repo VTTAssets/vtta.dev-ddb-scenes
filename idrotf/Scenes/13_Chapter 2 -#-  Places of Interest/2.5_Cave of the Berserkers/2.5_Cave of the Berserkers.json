@@ -1,0 +1,76 @@
+{
+   "name": "Cave of the Berserkers",
+   "backgroundColor": "#9eadb8",
+   "code": "idrotf",
+   "entity": "Scene",
+   "id": "scenes/idrotf-scene-2.5",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 2: Places of Interest"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2210
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-2.5-Q08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.5-Q07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.5-Q06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.5-Q05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.5-Q04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.5-Q03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.5-Q02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.5-Q01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

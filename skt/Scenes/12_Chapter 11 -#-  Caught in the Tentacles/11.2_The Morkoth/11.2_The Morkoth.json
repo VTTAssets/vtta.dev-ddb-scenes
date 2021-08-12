@@ -1,0 +1,72 @@
+{
+   "name": "The Morkoth",
+   "backgroundColor": "#7e5d39",
+   "code": "skt",
+   "entity": "Scene",
+   "id": "scenes/skt-scene-11.2",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "12 Chapter 11: Caught in the Tentacles"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 51
+   },
+   "img": {
+      "height": 1632,
+      "shift": {
+         "x": -50,
+         "y": -48
+      },
+      "width": 2429
+   },
+   "journals": [
+      {
+         "id": "journals/skt-scene-11.2-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-11.2-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-11.2-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-11.2-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-11.2-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-11.2-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-11.2-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

@@ -1,0 +1,82 @@
+{
+   "name": "Leilon Under Construction",
+   "backgroundColor": "#80817b",
+   "code": "slw",
+   "entity": "Scene",
+   "id": "scenes/slw-scene-3",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 Welcome to Leilon"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 70
+   },
+   "img": {
+      "height": 2416,
+      "shift": {
+         "x": -52,
+         "y": -62
+      },
+      "width": 3403
+   },
+   "journals": [
+      {
+         "id": "journals/slw-scene-3-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/slw-scene-3-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/slw-scene-3-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/slw-scene-3-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/slw-scene-3-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/slw-scene-3-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/slw-scene-3-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/slw-scene-3-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/slw-scene-3-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

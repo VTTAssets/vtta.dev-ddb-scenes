@@ -1,0 +1,67 @@
+{
+   "name": "Walls of Ravenloft",
+   "backgroundColor": "#c6c8c9",
+   "code": "cos",
+   "entity": "Scene",
+   "id": "scenes/cos-scene-4.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: Castle Ravenloft"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 73
+   },
+   "img": {
+      "height": 3141,
+      "shift": {
+         "x": -50,
+         "y": -31
+      },
+      "width": 2159
+   },
+   "journals": [
+      {
+         "id": "journals/cos-scene-4.1-K06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.1-K05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.1-K04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.1-K03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.1-K02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.1-K01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

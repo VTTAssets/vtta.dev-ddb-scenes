@@ -1,0 +1,37 @@
+{
+   "name": "Avernus",
+   "backgroundColor": "#b48868",
+   "code": "bgdia",
+   "entity": "Scene",
+   "id": "scenes/bgdia-scene-3.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 3: Avernus"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 80
+   },
+   "img": {
+      "height": 1893,
+      "shift": {
+         "x": -57,
+         "y": -46
+      },
+      "width": 2461
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

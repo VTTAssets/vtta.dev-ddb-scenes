@@ -1,0 +1,66 @@
+{
+   "name": "Island of Solstice",
+   "backgroundColor": "#9db3c1",
+   "code": "idrotf",
+   "entity": "Scene",
+   "id": "scenes/idrotf-scene-5.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "16 Chapter 5: Auril’s Abode"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 10,
+      "type": 1
+   },
+   "img": {
+      "height": 5000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3684
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-5.1-I06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-5.1-I05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-5.1-I04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-5.1-I03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-5.1-I02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-5.1-I01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

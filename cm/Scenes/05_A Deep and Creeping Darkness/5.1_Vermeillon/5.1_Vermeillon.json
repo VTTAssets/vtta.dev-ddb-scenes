@@ -1,0 +1,64 @@
+{
+   "name": "Vermeillon",
+   "code": "cm",
+   "entity": "Scene",
+   "id": "scenes/cm-scene-5.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 A Deep and Creeping Darkness"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 2062,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-5.1-V06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.1-V05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.1-V04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.1-V03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.1-V02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.1-V01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

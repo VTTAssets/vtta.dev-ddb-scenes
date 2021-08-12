@@ -1,0 +1,54 @@
+{
+   "name": "Lighthouse Basement",
+   "code": "ai",
+   "entity": "Scene",
+   "id": "scenes/ai-scene-3.2",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Episode 3: Darkness at the Lighthouse"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 1516,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 1200
+   },
+   "journals": [
+      {
+         "id": "journals/ai-scene-3.2-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-3.2-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-3.2-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-3.2-01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

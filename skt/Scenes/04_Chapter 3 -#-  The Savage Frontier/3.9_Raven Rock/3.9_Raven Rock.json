@@ -1,0 +1,37 @@
+{
+   "name": "Raven Rock",
+   "backgroundColor": "#6d645f",
+   "code": "skt",
+   "entity": "Scene",
+   "id": "scenes/skt-scene-3.9",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 3: The Savage Frontier"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 50,
+      "type": 1,
+      "value": 96
+   },
+   "img": {
+      "height": 2207,
+      "shift": {
+         "x": -34,
+         "y": -21
+      },
+      "width": 1603
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

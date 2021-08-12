@@ -1,0 +1,81 @@
+{
+   "name": "Id Ascendant",
+   "backgroundColor": "#5c707a",
+   "code": "idrotf",
+   "entity": "Scene",
+   "id": "scenes/idrotf-scene-2.7",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 2: Places of Interest"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1
+   },
+   "img": {
+      "height": 2765,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 4000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-2.7-N09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.7-N08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.7-N07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.7-N06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.7-N05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.7-N04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.7-N03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.7-N02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.7-N01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

@@ -1,0 +1,81 @@
+{
+   "name": "Elven Tomb",
+   "backgroundColor": "#62717f",
+   "code": "idrotf",
+   "entity": "Scene",
+   "id": "scenes/idrotf-scene-1.15",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Lonelywood"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1
+   },
+   "img": {
+      "height": 2765,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 4000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.15-E09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.15-E08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.15-E07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.15-E06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.15-E05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.15-E04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.15-E03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.15-E02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.15-E01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

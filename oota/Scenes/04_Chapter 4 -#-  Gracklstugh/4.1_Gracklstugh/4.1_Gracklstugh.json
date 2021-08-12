@@ -1,0 +1,37 @@
+{
+   "name": "Gracklstugh",
+   "backgroundColor": "#76655a",
+   "code": "oota",
+   "entity": "Scene",
+   "id": "scenes/oota-scene-4.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 4: Gracklstugh"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 58
+   },
+   "img": {
+      "height": 2834,
+      "shift": {
+         "x": -29,
+         "y": -27
+      },
+      "width": 3313
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

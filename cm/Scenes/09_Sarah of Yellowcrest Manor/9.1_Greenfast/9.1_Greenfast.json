@@ -1,0 +1,59 @@
+{
+   "name": "Greenfast",
+   "code": "cm",
+   "entity": "Scene",
+   "id": "scenes/cm-scene-9.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Sarah of Yellowcrest Manor"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 2134,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-9.1-G05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-9.1-G04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-9.1-G03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-9.1-G02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-9.1-G01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

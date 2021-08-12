@@ -1,0 +1,37 @@
+{
+   "name": "Yartar",
+   "backgroundColor": "#d4c5a8",
+   "code": "pota",
+   "entity": "Scene",
+   "id": "scenes/pota-scene-6.8",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 6: Alarums and Excursions"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 51
+   },
+   "img": {
+      "height": 1951,
+      "shift": {
+         "x": -48,
+         "y": -43
+      },
+      "width": 3072
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

@@ -1,0 +1,62 @@
+{
+   "name": "Parnast",
+   "backgroundColor": "#626262",
+   "code": "hotdq",
+   "entity": "Scene",
+   "id": "scenes/hotdq-scene-8.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Chapter 8: Castle in the Clouds"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 10,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 2035,
+      "shift": {
+         "x": -48,
+         "y": -11
+      },
+      "width": 1582
+   },
+   "journals": [
+      {
+         "id": "journals/hotdq-scene-8.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-8.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-8.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-8.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-8.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

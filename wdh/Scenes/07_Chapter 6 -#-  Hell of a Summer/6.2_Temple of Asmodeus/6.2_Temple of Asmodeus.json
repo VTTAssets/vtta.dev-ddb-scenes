@@ -1,0 +1,92 @@
+{
+   "name": "Temple of Asmodeus",
+   "backgroundColor": "#f8f8f8",
+   "code": "wdh",
+   "entity": "Scene",
+   "id": "scenes/wdh-scene-6.2",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Chapter 6: Hell of a Summer"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 1616,
+      "shift": {
+         "x": -22,
+         "y": -30
+      },
+      "width": 2304
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-6.2-A09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A04b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A04a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

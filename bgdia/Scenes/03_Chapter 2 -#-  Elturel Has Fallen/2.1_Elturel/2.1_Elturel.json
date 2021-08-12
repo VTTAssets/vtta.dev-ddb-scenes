@@ -1,0 +1,67 @@
+{
+   "name": "Elturel",
+   "backgroundColor": "#d5ac87",
+   "code": "bgdia",
+   "entity": "Scene",
+   "id": "scenes/bgdia-scene-2.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: Elturel Has Fallen"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 82
+   },
+   "img": {
+      "height": 3093,
+      "shift": {
+         "x": -39,
+         "y": -12
+      },
+      "width": 4189
+   },
+   "journals": [
+      {
+         "id": "journals/bgdia-scene-2.1-H06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/bgdia-scene-2.1-H05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/bgdia-scene-2.1-H04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/bgdia-scene-2.1-H03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/bgdia-scene-2.1-H02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/bgdia-scene-2.1-H01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

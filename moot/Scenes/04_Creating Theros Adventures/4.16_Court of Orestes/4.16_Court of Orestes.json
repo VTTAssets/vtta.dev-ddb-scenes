@@ -1,0 +1,74 @@
+{
+   "name": "Court of Orestes",
+   "code": "moot",
+   "entity": "Scene",
+   "id": "scenes/moot-scene-4.16",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Creating Theros Adventures"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 2250,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3825
+   },
+   "journals": [
+      {
+         "id": "journals/moot-scene-4.16-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/moot-scene-4.16-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/moot-scene-4.16-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/moot-scene-4.16-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/moot-scene-4.16-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/moot-scene-4.16-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/moot-scene-4.16-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/moot-scene-4.16-01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

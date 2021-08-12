@@ -1,0 +1,77 @@
+{
+   "name": "Wrecked Flying Fortress, Command Deck",
+   "backgroundColor": "#fcfcfc",
+   "code": "bgdia",
+   "entity": "Scene",
+   "id": "scenes/bgdia-scene-3.6",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 3: Avernus - Path of Devils"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 174
+   },
+   "img": {
+      "height": 4005,
+      "shift": {
+         "x": -110,
+         "y": -152
+      },
+      "width": 6618
+   },
+   "journals": [
+      {
+         "id": "journals/bgdia-scene-3.6-W08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/bgdia-scene-3.6-W07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/bgdia-scene-3.6-W06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/bgdia-scene-3.6-W05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/bgdia-scene-3.6-W04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/bgdia-scene-3.6-W03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/bgdia-scene-3.6-W02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/bgdia-scene-3.6-W01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

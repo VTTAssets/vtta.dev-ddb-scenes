@@ -1,0 +1,34 @@
+{
+   "name": "Krenko’s Hideout",
+   "code": "ggtr",
+   "entity": "Scene",
+   "id": "scenes/ggtr-scene-4.11",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "15 Krenko’s Way"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 3338,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2513
+   },
+   "journals": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

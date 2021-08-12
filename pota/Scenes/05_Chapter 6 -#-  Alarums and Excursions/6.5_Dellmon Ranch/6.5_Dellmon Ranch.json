@@ -1,0 +1,37 @@
+{
+   "name": "Dellmon Ranch",
+   "backgroundColor": "#b9ad84",
+   "code": "pota",
+   "entity": "Scene",
+   "id": "scenes/pota-scene-6.5",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 6: Alarums and Excursions"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 10,
+      "type": 1,
+      "value": 82
+   },
+   "img": {
+      "height": 2000,
+      "shift": {
+         "x": -62,
+         "y": -18
+      },
+      "width": 1441
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

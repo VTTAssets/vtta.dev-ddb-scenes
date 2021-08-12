@@ -1,0 +1,37 @@
+{
+   "name": "Abbey Isle",
+   "backgroundColor": "#fdfdfd",
+   "code": "gos",
+   "entity": "Scene",
+   "id": "scenes/gos-scene-5.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 5: Isle of the Abbey"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 500,
+      "type": 1,
+      "value": 109
+   },
+   "img": {
+      "height": 2871,
+      "shift": {
+         "x": -85,
+         "y": -54
+      },
+      "width": 2100
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

@@ -1,0 +1,62 @@
+{
+   "name": "Neverlight Grove",
+   "backgroundColor": "#644e38",
+   "code": "oota",
+   "entity": "Scene",
+   "id": "scenes/oota-scene-5.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 5: Neverlight Grove"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 10,
+      "type": 1,
+      "value": 93
+   },
+   "img": {
+      "height": 2761,
+      "shift": {
+         "x": -46,
+         "y": -44
+      },
+      "width": 3386
+   },
+   "journals": [
+      {
+         "id": "journals/oota-scene-5.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-5.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-5.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-5.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-5.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

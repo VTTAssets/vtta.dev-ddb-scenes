@@ -1,0 +1,116 @@
+{
+   "name": "Lost Spire of Netheril",
+   "backgroundColor": "#6c7d87",
+   "code": "idrotf",
+   "entity": "Scene",
+   "id": "scenes/idrotf-scene-2.10",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 2: Places of Interest"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1
+   },
+   "img": {
+      "height": 2765,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 4000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-2.10-P16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.10-P15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.10-P14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.10-P13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.10-P12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.10-P11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.10-P10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.10-P09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.10-P08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.10-P07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.10-P06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.10-P05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.10-P04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.10-P03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.10-P02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.10-P01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

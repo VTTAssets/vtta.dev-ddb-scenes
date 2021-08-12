@@ -1,0 +1,34 @@
+{
+   "name": "har akir",
+   "code": "vrgtr",
+   "entity": "Scene",
+   "id": "scenes/vrgtr-scene-3.6",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "15 Har’Akir"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 2072,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3000
+   },
+   "journals": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

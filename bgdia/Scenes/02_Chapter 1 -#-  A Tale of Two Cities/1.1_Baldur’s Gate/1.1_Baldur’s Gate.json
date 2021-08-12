@@ -1,0 +1,37 @@
+{
+   "name": "Baldur’s Gate",
+   "backgroundColor": "#aeb499",
+   "code": "bgdia",
+   "entity": "Scene",
+   "id": "scenes/bgdia-scene-1.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 1: A Tale of Two Cities"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 51
+   },
+   "img": {
+      "height": 1652,
+      "shift": {
+         "x": -51,
+         "y": -51
+      },
+      "width": 2566
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

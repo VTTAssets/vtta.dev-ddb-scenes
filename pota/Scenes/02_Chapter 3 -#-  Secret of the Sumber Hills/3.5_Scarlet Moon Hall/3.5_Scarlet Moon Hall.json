@@ -1,0 +1,117 @@
+{
+   "name": "Scarlet Moon Hall",
+   "backgroundColor": "#b0a590",
+   "code": "pota",
+   "entity": "Scene",
+   "id": "scenes/pota-scene-3.5",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 3: Secret of the Sumber Hills"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 10,
+      "type": 1,
+      "value": 77
+   },
+   "img": {
+      "height": 2599,
+      "shift": {
+         "x": -41,
+         "y": -45
+      },
+      "width": 3752
+   },
+   "journals": [
+      {
+         "id": "journals/pota-scene-3.5-H09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.5-H08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.5-H07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.5-H06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.5-H05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.5-H04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.5-H03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.5-H02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.5-H01",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.5-c07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.5-c06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.5-c05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.5-c04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.5-c03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.5-c02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.5-c01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

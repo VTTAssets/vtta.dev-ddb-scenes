@@ -1,0 +1,51 @@
+{
+   "name": "Lonelywood",
+   "backgroundColor": "#b0b0ad",
+   "code": "idrotf",
+   "entity": "Scene",
+   "id": "scenes/idrotf-scene-1.14",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Lonelywood"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2199
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.14-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.14-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.14-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

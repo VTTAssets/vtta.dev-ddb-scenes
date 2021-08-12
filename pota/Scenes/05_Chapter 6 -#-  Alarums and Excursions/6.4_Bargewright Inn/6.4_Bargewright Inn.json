@@ -1,0 +1,37 @@
+{
+   "name": "Bargewright Inn",
+   "backgroundColor": "#cbbca0",
+   "code": "pota",
+   "entity": "Scene",
+   "id": "scenes/pota-scene-6.4",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 6: Alarums and Excursions"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 59
+   },
+   "img": {
+      "height": 1944,
+      "shift": {
+         "x": -6,
+         "y": -3
+      },
+      "width": 1526
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

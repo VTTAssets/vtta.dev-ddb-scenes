@@ -1,0 +1,84 @@
+{
+   "name": "Ruined Palma Flora",
+   "code": "egtw",
+   "entity": "Scene",
+   "id": "scenes/egtw-scene-5.3",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Tide of Retribution"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 1650,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2550
+   },
+   "journals": [
+      {
+         "id": "journals/egtw-scene-5.3-P10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.3-P09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.3-P08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.3-P07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.3-P06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.3-P05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.3-P04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.3-P03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.3-P02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.3-P01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

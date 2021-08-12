@@ -1,0 +1,62 @@
+{
+   "name": "Iymrith’s Lair",
+   "backgroundColor": "#000000",
+   "code": "skt",
+   "entity": "Scene",
+   "id": "scenes/skt-scene-12.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 12: Doom of the Desert"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 10,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 5646,
+      "shift": {
+         "x": -42,
+         "y": -11
+      },
+      "width": 4124
+   },
+   "journals": [
+      {
+         "id": "journals/skt-scene-12.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-12.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-12.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-12.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-12.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

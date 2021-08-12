@@ -1,0 +1,79 @@
+{
+   "name": "The Dran & Courtier",
+   "code": "ai",
+   "entity": "Scene",
+   "id": "scenes/ai-scene-6.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "10 Episode 6: Showdown with the Six"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 1971,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/ai-scene-6.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-6.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-6.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-6.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-6.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-6.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-6.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-6.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-6.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

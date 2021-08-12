@@ -1,0 +1,37 @@
+{
+   "name": "Stone Stand",
+   "backgroundColor": "#6c584a",
+   "code": "skt",
+   "entity": "Scene",
+   "id": "scenes/skt-scene-3.12",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 3: The Savage Frontier"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 105
+   },
+   "img": {
+      "height": 2202,
+      "shift": {
+         "x": -47,
+         "y": -1
+      },
+      "width": 1601
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

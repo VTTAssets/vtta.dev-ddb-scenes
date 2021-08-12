@@ -1,0 +1,82 @@
+{
+   "name": "Dory's Warehouse",
+   "backgroundColor": "#ffffff",
+   "code": "gos",
+   "entity": "Scene",
+   "id": "scenes/gos-scene-8.2",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Chapter 8: The Styes"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 1818,
+      "shift": {
+         "x": -18,
+         "y": -31
+      },
+      "width": 2577
+   },
+   "journals": [
+      {
+         "id": "journals/gos-scene-8.2-D09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.2-D08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.2-D07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.2-D06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.2-D05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.2-D04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.2-D03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.2-D02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.2-D01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

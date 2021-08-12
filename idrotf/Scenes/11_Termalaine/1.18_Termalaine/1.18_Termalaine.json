@@ -1,0 +1,46 @@
+{
+   "name": "Termalaine",
+   "backgroundColor": "#b0b0ac",
+   "code": "idrotf",
+   "entity": "Scene",
+   "id": "scenes/idrotf-scene-1.18",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "11 Termalaine"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2196
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.18-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.18-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

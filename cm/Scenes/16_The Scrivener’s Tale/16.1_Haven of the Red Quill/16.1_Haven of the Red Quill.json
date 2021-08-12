@@ -1,0 +1,74 @@
+{
+   "name": "Haven of the Red Quill",
+   "code": "cm",
+   "entity": "Scene",
+   "id": "scenes/cm-scene-16.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "16 The Scrivener’s Tale"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 2071,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-16.1-H08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-16.1-H07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-16.1-H06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-16.1-H05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-16.1-H04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-16.1-H03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-16.1-H02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-16.1-H01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

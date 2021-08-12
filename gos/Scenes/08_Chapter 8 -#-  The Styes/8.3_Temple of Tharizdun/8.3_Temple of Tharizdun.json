@@ -1,0 +1,67 @@
+{
+   "name": "Temple of Tharizdun",
+   "backgroundColor": "#f8f9fb",
+   "code": "gos",
+   "entity": "Scene",
+   "id": "scenes/gos-scene-8.3",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Chapter 8: The Styes"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 53
+   },
+   "img": {
+      "height": 1487,
+      "shift": {
+         "x": -3,
+         "y": -6
+      },
+      "width": 2119
+   },
+   "journals": [
+      {
+         "id": "journals/gos-scene-8.3-T06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.3-T05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.3-T04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.3-T03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.3-T02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.3-T01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

@@ -1,0 +1,101 @@
+{
+   "name": "Chambers of Horror",
+   "backgroundColor": "#5e584b",
+   "code": "toa",
+   "entity": "Scene",
+   "id": "scenes/toa-scene-5.4",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: Tomb of the Nine Gods"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1
+   },
+   "img": {
+      "height": 1900,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2750
+   },
+   "journals": [
+      {
+         "id": "journals/toa-scene-5.4-57",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.4-56",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.4-55",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.4-54",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.4-53",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.4-52",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.4-51",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.4-50",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.4-49",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.4-48",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.4-47",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.4-46",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.4-45",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

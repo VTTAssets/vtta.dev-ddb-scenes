@@ -1,0 +1,82 @@
+{
+   "name": "Baba Lysaga’s Creeping Hut",
+   "backgroundColor": "#949585",
+   "code": "cos",
+   "entity": "Scene",
+   "id": "scenes/cos-scene-10.2",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "11 Chapter 10: The Ruins of Berez"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 90
+   },
+   "img": {
+      "height": 1123,
+      "shift": {
+         "x": -24,
+         "y": -42
+      },
+      "width": 1127
+   },
+   "journals": [
+      {
+         "id": "journals/cos-scene-10.2-U03",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+      {
+         "c": [
+            1080,
+            990,
+            1080,
+            896
+         ]
+      },
+      {
+         "c": [
+            1080,
+            896,
+            805,
+            896
+         ]
+      },
+      {
+         "c": [
+            805,
+            896,
+            808,
+            1173
+         ]
+      },
+      {
+         "c": [
+            808,
+            1173,
+            1081,
+            1170
+         ]
+      },
+      {
+         "c": [
+            1081,
+            1170,
+            1082,
+            1076
+         ]
+      }
+   ]
+}

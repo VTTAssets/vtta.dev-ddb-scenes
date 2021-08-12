@@ -1,0 +1,69 @@
+{
+   "name": "Daoine Gloine",
+   "code": "llok",
+   "entity": "Scene",
+   "id": "scenes/llok-scene-1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Part 3: The Ooze-Flooded City"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 6471,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 5000
+   },
+   "journals": [
+      {
+         "id": "journals/llok-scene-1-O07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/llok-scene-1-O06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/llok-scene-1-O05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/llok-scene-1-O04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/llok-scene-1-O03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/llok-scene-1-O02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/llok-scene-1-O01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

@@ -1,0 +1,54 @@
+{
+   "name": "Grippli Village",
+   "code": "cm",
+   "entity": "Scene",
+   "id": "scenes/cm-scene-8.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Book of Cylinders"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 2134,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-8.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-8.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-8.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-8.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

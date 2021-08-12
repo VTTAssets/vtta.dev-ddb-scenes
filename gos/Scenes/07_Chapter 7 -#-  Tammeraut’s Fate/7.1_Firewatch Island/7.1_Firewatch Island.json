@@ -1,0 +1,37 @@
+{
+   "name": "Firewatch Island",
+   "backgroundColor": "#e5eaf0",
+   "code": "gos",
+   "entity": "Scene",
+   "id": "scenes/gos-scene-7.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Chapter 7: Tammeraut’s Fate"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 101
+   },
+   "img": {
+      "height": 1478,
+      "shift": {
+         "x": -52,
+         "y": -55
+      },
+      "width": 1981
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

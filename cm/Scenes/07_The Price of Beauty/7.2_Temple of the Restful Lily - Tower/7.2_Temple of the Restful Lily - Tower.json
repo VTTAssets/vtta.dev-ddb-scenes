@@ -1,0 +1,69 @@
+{
+   "name": "Temple of the Restful Lily - Tower",
+   "code": "cm",
+   "entity": "Scene",
+   "id": "scenes/cm-scene-7.2",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 The Price of Beauty"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 1425,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2063
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-7.2-T18",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-7.2-T17",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-7.2-T16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-7.2-T15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-7.2-T14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-7.2-T13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-7.2-T18",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

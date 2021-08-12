@@ -1,0 +1,79 @@
+{
+   "name": "Candlekeep",
+   "code": "cm",
+   "entity": "Scene",
+   "id": "scenes/cm-scene-1.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 Candlekeep"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 3256,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2400
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-1.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-1.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-1.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-1.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-1.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-1.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-1.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-1.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-1.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

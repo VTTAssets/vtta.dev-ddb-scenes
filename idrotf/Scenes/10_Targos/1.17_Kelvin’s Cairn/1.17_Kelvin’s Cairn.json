@@ -1,0 +1,71 @@
+{
+   "name": "Kelvin’s Cairn",
+   "backgroundColor": "#86a6c0",
+   "code": "idrotf",
+   "entity": "Scene",
+   "id": "scenes/idrotf-scene-1.17",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "10 Targos"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1
+   },
+   "img": {
+      "height": 2765,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 4000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.17-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.17-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.17-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.17-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.17-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.17-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.17-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

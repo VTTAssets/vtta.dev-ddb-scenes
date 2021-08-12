@@ -1,0 +1,76 @@
+{
+   "name": "Camp Vengeance",
+   "backgroundColor": "#706a5c",
+   "code": "toa",
+   "entity": "Scene",
+   "id": "scenes/toa-scene-2.4",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: The Land of Chult"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1
+   },
+   "img": {
+      "height": 1900,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2750
+   },
+   "journals": [
+      {
+         "id": "journals/toa-scene-2.4-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.4-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.4-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.4-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.4-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.4-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.4-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.4-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

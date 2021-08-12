@@ -1,0 +1,56 @@
+{
+   "name": "Angajuk's Bell",
+   "backgroundColor": "#adbbc6",
+   "code": "idrotf",
+   "entity": "Scene",
+   "id": "scenes/idrotf-scene-2.2",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 2: Places of Interest"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2210
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-2.2-A04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.2-A03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.2-A02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.2-A01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

@@ -1,0 +1,55 @@
+{
+   "name": "Bremen",
+   "backgroundColor": "#acaca8",
+   "code": "idrotf",
+   "entity": "Scene",
+   "id": "scenes/idrotf-scene-1.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Bremen"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 100,
+      "type": 1,
+      "value": 123
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 136,
+         "y": -69
+      },
+      "width": 2208
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.1-02",
+         "positions": [
+            {
+               "x": 1204.2619047619048,
+               "y": 2122.261904761905
+            }
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.1-01",
+         "positions": [
+            {
+               "x": 665.5,
+               "y": 3085.5
+            }
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

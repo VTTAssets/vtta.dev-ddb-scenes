@@ -1,0 +1,37 @@
+{
+   "name": "Greenest",
+   "backgroundColor": "#b2977b",
+   "code": "hotdq",
+   "entity": "Scene",
+   "id": "scenes/hotdq-scene-1.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 1: Greenest in Flames"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 99
+   },
+   "img": {
+      "height": 2417,
+      "shift": {
+         "x": -30,
+         "y": -27
+      },
+      "width": 3503
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

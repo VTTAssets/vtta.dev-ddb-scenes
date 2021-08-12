@@ -1,0 +1,34 @@
+{
+   "name": "Geysers and Chains",
+   "code": "tftyp",
+   "entity": "Scene",
+   "id": "scenes/tftyp-scene-4.3",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 White Plume Mountain"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2290
+   },
+   "journals": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

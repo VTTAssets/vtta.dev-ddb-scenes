@@ -1,0 +1,67 @@
+{
+   "name": "The Oozing Temple",
+   "backgroundColor": "#7a685c",
+   "code": "oota",
+   "entity": "Scene",
+   "id": "scenes/oota-scene-2.3",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 2: Into Darkness"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 108
+   },
+   "img": {
+      "height": 2762,
+      "shift": {
+         "x": -80,
+         "y": -63
+      },
+      "width": 3395
+   },
+   "journals": [
+      {
+         "id": "journals/oota-scene-2.3-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-2.3-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-2.3-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-2.3-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-2.3-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-2.3-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

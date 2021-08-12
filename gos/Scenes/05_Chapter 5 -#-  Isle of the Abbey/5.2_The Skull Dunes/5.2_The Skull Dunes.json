@@ -1,0 +1,37 @@
+{
+   "name": "The Skull Dunes",
+   "backgroundColor": "#e3e8ee",
+   "code": "gos",
+   "entity": "Scene",
+   "id": "scenes/gos-scene-5.2",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 5: Isle of the Abbey"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 164
+   },
+   "img": {
+      "height": 2860,
+      "shift": {
+         "x": -80,
+         "y": -17
+      },
+      "width": 4135
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

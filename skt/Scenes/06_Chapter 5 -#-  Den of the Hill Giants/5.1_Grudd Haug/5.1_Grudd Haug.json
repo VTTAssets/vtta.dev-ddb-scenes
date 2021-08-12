@@ -1,0 +1,117 @@
+{
+   "name": "Grudd Haug",
+   "backgroundColor": "#3f4949",
+   "code": "skt",
+   "entity": "Scene",
+   "id": "scenes/skt-scene-5.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: Den of the Hill Giants"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 10,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 6735,
+      "shift": {
+         "x": -42,
+         "y": -22
+      },
+      "width": 4898
+   },
+   "journals": [
+      {
+         "id": "journals/skt-scene-5.1-16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

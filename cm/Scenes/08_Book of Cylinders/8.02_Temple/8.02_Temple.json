@@ -1,0 +1,44 @@
+{
+   "name": "Temple",
+   "code": "cm",
+   "entity": "Scene",
+   "id": "scenes/cm-scene-8.02",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Book of Cylinders"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2206
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-8.02-T02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-8.02-T01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

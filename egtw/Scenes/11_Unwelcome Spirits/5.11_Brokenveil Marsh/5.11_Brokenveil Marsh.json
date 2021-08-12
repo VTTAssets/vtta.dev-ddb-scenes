@@ -1,0 +1,79 @@
+{
+   "name": "Brokenveil Marsh",
+   "code": "egtw",
+   "entity": "Scene",
+   "id": "scenes/egtw-scene-5.11",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "11 Unwelcome Spirits"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 1650,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2550
+   },
+   "journals": [
+      {
+         "id": "journals/egtw-scene-5.11-B09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.11-B08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.11-B07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.11-B06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.11-B05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.11-B04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.11-B03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.11-B02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.11-B01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

@@ -1,0 +1,89 @@
+{
+   "name": "Mayor Duvezin's House",
+   "code": "cm",
+   "entity": "Scene",
+   "id": "scenes/cm-scene-5.2",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 A Deep and Creeping Darkness"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2168
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-5.2-H11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.2-H10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.2-H09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.2-H08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.2-H07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.2-H06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.2-H05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.2-H04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.2-H03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.2-H02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.2-H01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

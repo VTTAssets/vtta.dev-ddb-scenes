@@ -1,0 +1,34 @@
+{
+   "name": "The Continent of Khorvaire",
+   "code": "erftlw",
+   "entity": "Scene",
+   "id": "scenes/erftlw-scene-2.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 2: Khorvaire Gazetteer"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 3548,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 5033
+   },
+   "journals": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

@@ -1,0 +1,116 @@
+{
+   "name": "Merchant Prince’s Villa",
+   "backgroundColor": "#7a7361",
+   "code": "toa",
+   "entity": "Scene",
+   "id": "scenes/toa-scene-1.2",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 1: Port Nyanzaru"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1
+   },
+   "img": {
+      "height": 1900,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2750
+   },
+   "journals": [
+      {
+         "id": "journals/toa-scene-1.2-16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-1.2-15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-1.2-14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-1.2-13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-1.2-12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-1.2-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-1.2-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-1.2-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-1.2-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-1.2-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-1.2-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-1.2-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-1.2-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-1.2-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-1.2-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-1.2-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

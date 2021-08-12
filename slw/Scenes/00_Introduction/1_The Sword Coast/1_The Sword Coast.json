@@ -1,0 +1,86 @@
+{
+   "name": "The Sword Coast",
+   "backgroundColor": "#5a523d",
+   "code": "slw",
+   "entity": "Scene",
+   "id": "scenes/slw-scene-1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "00 Introduction"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2153
+   },
+   "journals": [
+      {
+         "id": "journals/slw-scene-1-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/slw-scene-1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/slw-scene-1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/slw-scene-1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/slw-scene-1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/slw-scene-1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/slw-scene-1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/slw-scene-1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/slw-scene-1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/slw-scene-1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

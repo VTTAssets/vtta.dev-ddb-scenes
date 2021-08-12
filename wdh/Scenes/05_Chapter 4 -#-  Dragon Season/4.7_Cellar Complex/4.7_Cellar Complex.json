@@ -1,0 +1,92 @@
+{
+   "name": "Cellar Complex",
+   "backgroundColor": "#f9f9f9",
+   "code": "wdh",
+   "entity": "Scene",
+   "id": "scenes/wdh-scene-4.7",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: Dragon Season"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 62
+   },
+   "img": {
+      "height": 1453,
+      "shift": {
+         "x": -61,
+         "y": -57
+      },
+      "width": 2072
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-4.7-B11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

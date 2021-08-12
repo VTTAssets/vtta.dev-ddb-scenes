@@ -1,0 +1,89 @@
+{
+   "name": "Tomb of Valin Sarnaster",
+   "code": "cm",
+   "entity": "Scene",
+   "id": "scenes/cm-scene-15.1",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "15 The Canopic Being"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 2840,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2094
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-15.1-T11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-15.1-T10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-15.1-T09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-15.1-T08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-15.1-T07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-15.1-T06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-15.1-T05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-15.1-T04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-15.1-T03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-15.1-T02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-15.1-T01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

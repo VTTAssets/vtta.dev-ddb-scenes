@@ -1,0 +1,34 @@
+{
+   "name": "dementlieu",
+   "code": "vrgtr",
+   "entity": "Scene",
+   "id": "scenes/vrgtr-scene-3.4",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Dementlieu"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 1498
+   },
+   "journals": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

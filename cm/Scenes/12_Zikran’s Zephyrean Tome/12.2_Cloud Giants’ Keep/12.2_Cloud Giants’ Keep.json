@@ -1,0 +1,69 @@
+{
+   "name": "Cloud Giants’ Keep",
+   "code": "cm",
+   "entity": "Scene",
+   "id": "scenes/cm-scene-12.2",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "12 Zikran’s Zephyrean Tome"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 50
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2214
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-12.2-C07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-12.2-C06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-12.2-C05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-12.2-C04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-12.2-C03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-12.2-C02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-12.2-C01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}

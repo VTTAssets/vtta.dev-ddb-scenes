@@ -1,0 +1,82 @@
+{
+   "name": "Courthouse",
+   "backgroundColor": "#fefefe",
+   "code": "wdh",
+   "entity": "Scene",
+   "id": "scenes/wdh-scene-4.6",
+   "type": "scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: Dragon Season"
+         ]
+      }
+   },
+   "grid": {
+      "units": "ft",
+      "distance": 5,
+      "type": 1,
+      "value": 59
+   },
+   "img": {
+      "height": 1422,
+      "shift": {
+         "x": -50,
+         "y": -44
+      },
+      "width": 2071
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-4.6-H09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "walls": [
+   ]
+}
